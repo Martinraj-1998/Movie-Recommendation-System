@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: movie recommendation package
+Author: Martinraj Nadar
+Author-email: mnadar2022@fau.edu
+Requires-Python: >=3.7
+Description-Content-Type: txt/markdown
+
+Movie Recommendation System
