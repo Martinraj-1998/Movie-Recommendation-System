@@ -19,10 +19,11 @@ A content based movie recommendation system written in Python that utilizes Cosi
 
 
 **Demo:**
-The user selects 'Batman' as the movie-
-![image](https://github.com/Martinraj-1998/Movie-Recommendation-System/assets/114367744/e91aa617-03fc-4fea-821b-412c0479bf26)
+*The user selects 'Batman' as the movie-*
+![image](https://github.com/Martinraj-1998/Movie-Recommendation-System/assets/114367744/66937d13-1cda-4461-8c55-9964bcaa7ad8)
 
-The system recommends movies similar to Batman-
+
+*The system recommends movies similar to Batman-*
 ![image](https://github.com/Martinraj-1998/Movie-Recommendation-System/assets/114367744/14fa3674-8277-4d9f-953d-51b89cbcb841)
 
 
